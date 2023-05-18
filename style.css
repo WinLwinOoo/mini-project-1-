@@ -1,0 +1,37 @@
+
+p{
+    color: grey;
+    text-align: center;
+    font-weight: bold;
+    padding : 3% 5% 0 5%;
+    
+}
+span{
+    color: grey;
+}
+ a:link{
+    color:green;
+    background-color: transparent;
+    text-decoration: none;
+}
+.nav-item a:hover{
+    color:blue;
+    background-color: transparent;
+    font-weight: bold;
+    transition: ease 0.3s;
+}
+.nav-item a:active{
+    color:red;
+    background-color: transparent;
+}
+a:visited{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+div h1{
+    font-size: 100px;
+    text-align: center;
+}
+
+
